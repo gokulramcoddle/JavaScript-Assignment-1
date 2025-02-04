@@ -1,3 +1,5 @@
+// Q1)Create variables with different data types available in JS and print their data types along with each variable name in the console. 
+
 var num= 2002;
 console.log("variable: num " +" | " +"Datatype : " + typeof(num));
 var str="Ram";
